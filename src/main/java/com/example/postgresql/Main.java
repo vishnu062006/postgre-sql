@@ -1,3 +1,4 @@
+package com.example.postgresql;
 public class Main {
     public static void main(String[] args) {
         DDLExecutor ddl = new DDLExecutor();

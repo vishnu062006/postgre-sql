@@ -1,3 +1,4 @@
+package com.example.postgresql;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
